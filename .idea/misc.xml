@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/zoo_one" />
+    <file type="web" url="file://$PROJECT_DIR$/zoo_three" />
+    <file type="web" url="file://$PROJECT_DIR$/zoo_two" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zoo_one/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo_two/pom.xml" />
+        <option value="$PROJECT_DIR$/zoo_three/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

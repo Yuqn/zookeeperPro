@@ -1,0 +1,5 @@
+zookeeper模式
+一、添加依赖
+    spring依赖、springmvc依赖、dubbo依赖
+二、写实体类
+三、写业务层接口

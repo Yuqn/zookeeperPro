@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zoo_three:war">
+    <output-path>$PROJECT_DIR$/zoo_three/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zoo_three</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zoo_three-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zoo_three:war exploded" />
+    </root>
+  </artifact>
+</component>
